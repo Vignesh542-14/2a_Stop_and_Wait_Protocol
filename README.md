@@ -67,8 +67,10 @@ while True:
 ```
 ## OUTPUT
 ### client:
-![alt text](image.png)
+![WhatsApp Image 2025-09-19 at 11 08 35_f9b68ea5](https://github.com/user-attachments/assets/a58c4754-29c4-4ffc-b809-82ee8d2a16d4)
+
 ### server:
-![alt text](image-1.png)
+![WhatsApp Image 2025-09-19 at 11 09 08_0a8b33fc](https://github.com/user-attachments/assets/339b5ac0-2f46-4a7f-a12f-7e5ac3789fe7)
+
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
